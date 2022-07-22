@@ -1,0 +1,6 @@
+D:\HK1_N4\Net\GUI_THUEXE\DAL_THUEXE\bin\Debug\DAL_THUEXE.dll
+D:\HK1_N4\Net\GUI_THUEXE\DAL_THUEXE\bin\Debug\DAL_THUEXE.pdb
+D:\HK1_N4\Net\GUI_THUEXE\DAL_THUEXE\obj\Debug\DAL_THUEXE.csprojAssemblyReference.cache
+D:\HK1_N4\Net\GUI_THUEXE\DAL_THUEXE\obj\Debug\DAL_THUEXE.csproj.CoreCompileInputs.cache
+D:\HK1_N4\Net\GUI_THUEXE\DAL_THUEXE\obj\Debug\DAL_THUEXE.dll
+D:\HK1_N4\Net\GUI_THUEXE\DAL_THUEXE\obj\Debug\DAL_THUEXE.pdb

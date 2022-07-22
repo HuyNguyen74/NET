@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_THUEXE", "GUI_THUEXE\GUI_THUEXE.csproj", "{F4BE08A9-C72F-456D-BCFE-8E320BA82456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_THUEXE", "BUS_THUEXE\BUS_THUEXE.csproj", "{E7E84EB4-97D1-4D09-9B01-A8C3D85CF159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_THUEXE", "DAL_THUEXE\DAL_THUEXE.csproj", "{80571017-BDC6-4F13-A8A7-A30AD6F33E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BE08A9-C72F-456D-BCFE-8E320BA82456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BE08A9-C72F-456D-BCFE-8E320BA82456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BE08A9-C72F-456D-BCFE-8E320BA82456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BE08A9-C72F-456D-BCFE-8E320BA82456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E84EB4-97D1-4D09-9B01-A8C3D85CF159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E84EB4-97D1-4D09-9B01-A8C3D85CF159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E84EB4-97D1-4D09-9B01-A8C3D85CF159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E84EB4-97D1-4D09-9B01-A8C3D85CF159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80571017-BDC6-4F13-A8A7-A30AD6F33E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80571017-BDC6-4F13-A8A7-A30AD6F33E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80571017-BDC6-4F13-A8A7-A30AD6F33E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80571017-BDC6-4F13-A8A7-A30AD6F33E52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8050667-03D6-4E83-84C5-BF438B362D81}
+	EndGlobalSection
+EndGlobal
